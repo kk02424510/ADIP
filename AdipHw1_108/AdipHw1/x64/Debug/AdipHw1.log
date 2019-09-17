@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\project\AdipHw1\AdipHw1\main.cpp(95,12): warning C4244:  '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  AdipHw1.vcxproj -> D:\project\AdipHw1\x64\Debug\AdipHw1.exe
